@@ -18,7 +18,7 @@ The solution was organized into two main folders:
 4. **Testing and Deployment:** After development, the application was tested locally to ensure proper functionality. Finally, both the frontend and backend code were deployed, making the application accessible online.
 
 ## Outcome
-(![ss1](https://github.com/anjalikumawat2002/WareHouse_Assignment/assets/75383853/3b066e8e-f254-4e5c-95a2-d09593bfa0db))
+![ss1](https://github.com/anjalikumawat2002/WareHouse_Assignment/assets/75383853/3b066e8e-f254-4e5c-95a2-d09593bfa0db)
 
 If we want to add a new row and modify the row:
 ![ss2](https://github.com/anjalikumawat2002/WareHouse_Assignment/assets/75383853/2301d75f-50d5-4155-b417-07d30a36b558)
