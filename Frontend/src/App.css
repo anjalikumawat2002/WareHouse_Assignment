@@ -1,0 +1,52 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  height: 15vh;
+  text-align: center;
+  background-color: #50727B;
+  text-align: center;
+  font-weight: bold;
+  font-size: 5vh !important;
+  color: #F6FDC3;
+}
+
+.table-container {
+  background-color: #9cd6ad;
+  padding: 1rem;
+  margin-top: 20px;
+  height: auto;
+  color: black;
+  font-size: medium;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th{
+  border-bottom: 1px solid black;
+  border: 2px solid black;
+  padding: 2rem;
+}
+td {
+  padding: 1rem;
+  text-align: center;
+  border: 2px solid black;
+}
+
+button{
+  
+  margin-top: 30px;
+  background-color: #4F6F52;
+  border:none;
+  transform: translate();
+  height: 3rem;
+  padding: 10px 40px;
+  color: white;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  
+}
