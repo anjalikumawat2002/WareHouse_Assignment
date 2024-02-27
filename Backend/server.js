@@ -19,7 +19,7 @@ app.use('/api/addRow', addData);
 
 
 app.get('*', (req, res) => {
-    res.sendFile(path.resolve(__dirname, '../frontend/dist', 'index.html'));
+    res.sendFile(path.resolve(__dirname, '../Frontend/dist', 'index.html'));
 });
 
 app.listen(5000, ()=>{
