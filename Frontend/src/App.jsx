@@ -8,7 +8,7 @@ function App() {
   const [showInputRow, setShowInputRow] = useState(false);
 
   async function getSheetData(){
-    const response = await fetch('http://localhost:5000/api/getSheetData', {
+    const response = await fetch('/api/getSheetData', {
       method:"GET"
     })
     const data = await response.json();
@@ -32,7 +32,7 @@ function App() {
         inputRow
       ]
     }
-    const response = await fetch('http://localhost:5000/api/addRow', {
+    const response = await fetch('/api/addRow', {
       method: 'POST',
       headers: {
         "Content-Type": "application/json",
